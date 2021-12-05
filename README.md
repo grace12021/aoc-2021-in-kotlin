@@ -1,10 +1,10 @@
 # aoc-2021-in-kotlin
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [grace12021][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+This is my solutions for AOC 2021 in Kotlin using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+It is the first time for Kotlin for me!
 
-In this repository, grace12021 is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+There are some related resources:
 
 - [Kotlin docs][docs]
 - [Kotlin Slack][slack]
